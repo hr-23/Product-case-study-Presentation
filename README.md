@@ -1,2 +1,3 @@
 # Product-case-study-Presentation
-SUMMARY OF TOY INDUSTRY, CURRENT STATE OF SIGMA TOYS &amp; ANALYSIS OF FINANCES
+A brief overview of the toy industry, the current scenario of sigma toys, and an analysis of the finances.
+
