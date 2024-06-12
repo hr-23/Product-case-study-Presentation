@@ -1,0 +1,55 @@
+KEY ADDRESSABLE ISSUES
+PROBLEMS WITH REVENUE PROBLEMS WITH COST
+Sigma Toys lost an opportunity to earn an additional revenue of INR 108 Cr
+The company was not able to meet the demand for 2020 by 21 lakh units
+Low Capacity Utilization & Idle time for Equipment is not utilized well
+Equipment/
+Time 12-12.30 12.30-1 1-1.30 1.30-2 2-2.30 2.30-3 3-3.30 3.30-4 4-4.30 4.30-5 5-5.30 5.30-6 6-6.30 6.30-7 7-7.30 7.30-8
+R1
+C1
+E1
+D1
+M1
+Cycles Cycle 1
+Gantt Chart highlighting inefficiencies in the PVC Manufacturing Plant. Click the chart to view the complete Day’s Operations.
+Equipment Output (MT
+PVC)
+Processing
+time in hours
+Waiting time
+in hours
+Througput
+rate (MT PVC
+per hour)
+R1 (Bottleneck) 355 4 4 44
+C1 248 1 0 248
+E1 213 0.5 0 426
+D1 195 1.5 0 130
+M1 177 1 0 177
+Throughput Rate for each Equipment
+• Throughput rate of Reactor
+(R1) is the lowest
+• Thus, R1 proves to be a
+bottleneck in the
+manufacturing process
+• PVC production capacity per
+day is lower than expected
+• Scrapped Toys are sold at average INR 50, despite cost of toys amounting to
+approximately INR 350
+• Company only uses Retail Channel for sales, highly limiting their revenue increasing options
+Bhubaneshwar has highest packaging cost, highest error rate &
+lowest efficiency, still it receives highest yearly PVC shipment
+increasing final cost
+• Packaging cost, error rate & taxes of every toy manufacturing plant vary
+• Despite this, all the plants run at similar capacity utilization of 60%. This increase the cost of
+the final product
+• Transportation cost rising as no Optimum route from Toy manufacturing plant to distribution
+center has been found
+• Employee attrition is high, due to hectic working schedule resulting in increased
+costs of hiring and training new joiners
+Cannot be Used
+Idle
+In Process
+Legend:
+• The company is facing shelf availability issues leading to opportunity cost
+• Sigma Toys has high error rate at some plant locations
